@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aubrey Jae\\OneDrive\\Desktop\\appdev-lab\\BillingSystem\\BillingSystem\\BillingSystem.csproj": {}
+    "C:\\Users\\User\\Documents\\Jenny\\BillingSystem\\BillingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aubrey Jae\\OneDrive\\Desktop\\appdev-lab\\BillingSystem\\BillingSystem\\BillingSystem.csproj": {
+    "C:\\Users\\User\\Documents\\Jenny\\BillingSystem\\BillingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aubrey Jae\\OneDrive\\Desktop\\appdev-lab\\BillingSystem\\BillingSystem\\BillingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Jenny\\BillingSystem\\BillingSystem.csproj",
         "projectName": "BillingSystem",
-        "projectPath": "C:\\Users\\Aubrey Jae\\OneDrive\\Desktop\\appdev-lab\\BillingSystem\\BillingSystem\\BillingSystem.csproj",
-        "packagesPath": "C:\\Users\\Aubrey Jae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aubrey Jae\\OneDrive\\Desktop\\appdev-lab\\BillingSystem\\BillingSystem\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\Jenny\\BillingSystem\\BillingSystem.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Jenny\\BillingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aubrey Jae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
