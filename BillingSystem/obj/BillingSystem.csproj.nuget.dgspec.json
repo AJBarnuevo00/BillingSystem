@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aubrey Jae\\OneDrive\\Desktop\\appdev-lab\\BillingSystem\\BillingSystem\\BillingSystem.csproj": {}
+    "C:\\Users\\Owner\\source\\repos\\BillingSystem\\BillingSystem\\BillingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aubrey Jae\\OneDrive\\Desktop\\appdev-lab\\BillingSystem\\BillingSystem\\BillingSystem.csproj": {
+    "C:\\Users\\Owner\\source\\repos\\BillingSystem\\BillingSystem\\BillingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aubrey Jae\\OneDrive\\Desktop\\appdev-lab\\BillingSystem\\BillingSystem\\BillingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\BillingSystem\\BillingSystem\\BillingSystem.csproj",
         "projectName": "BillingSystem",
-        "projectPath": "C:\\Users\\Aubrey Jae\\OneDrive\\Desktop\\appdev-lab\\BillingSystem\\BillingSystem\\BillingSystem.csproj",
-        "packagesPath": "C:\\Users\\Aubrey Jae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aubrey Jae\\OneDrive\\Desktop\\appdev-lab\\BillingSystem\\BillingSystem\\obj\\",
+        "projectPath": "C:\\Users\\Owner\\source\\repos\\BillingSystem\\BillingSystem\\BillingSystem.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Owner\\source\\repos\\BillingSystem\\BillingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aubrey Jae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,6 +62,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.30, 8.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.30, 8.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.30, 8.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.30, 8.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
