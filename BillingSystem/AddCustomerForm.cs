@@ -14,7 +14,7 @@ namespace BillingSystem
     {
         public AddCustomerForm()
         {
-            InitializeComponent(); // Aubrey
+            InitializeComponent(); // Aubrey Jae
         }
 
         private void lblFullName_Click(object sender, EventArgs e)
